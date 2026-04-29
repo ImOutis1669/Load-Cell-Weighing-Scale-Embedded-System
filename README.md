@@ -75,6 +75,16 @@ The system is composed of multiple stages:
 /docs → Reports and analysis
 /images → System photos
 
+---
+
+##  Team Contribution
+This project was developed as part of a **collaborative team effort**, with shared responsibilities across system design, implementation, and testing.  
+
+My contributions focused on:
+- Signal acquisition and embedded data processing  
+- System integration across sensing and processing stages  
+- Calibration, testing, and validation of measurement accuracy  
+
 
 ---
 
